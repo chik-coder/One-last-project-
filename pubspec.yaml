@@ -1,0 +1,13 @@
+
+name: smart_hisab
+description: A combined app for sand billing and accounting.
+
+environment:
+  sdk: ">=2.17.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
